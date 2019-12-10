@@ -1,0 +1,67 @@
+[
+  {
+    "fileName": "proxyhandler-apply.js",
+    "title": "JavaScript Demo: handler.apply()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-construct.js",
+    "title": "JavaScript Demo: handler.construct()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-defineproperty.js",
+    "title": "JavaScript Demo: handler.defineProperty()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-deleteproperty.js",
+    "title": "JavaScript Demo: handler.deleteProperty()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-get.js",
+    "title": "JavaScript Demo: handler.get()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-getownpropertydescriptor.js",
+    "title": "JavaScript Demo: handler.getOwnPropertyDescriptor()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-getprototypeof.js",
+    "title": "JavaScript Demo: handler.getPrototypeOf()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-has.js",
+    "title": "JavaScript Demo: handler.has()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-isextensible.js",
+    "title": "JavaScript Demo: handler.isExtensible()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-ownkeys.js",
+    "title": "JavaScript Demo: handler.ownKeys()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-preventextensions.js",
+    "title": "JavaScript Demo: handler.preventExtensions()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-set.js",
+    "title": "JavaScript Demo: handler.set()",
+    "type": "js"
+  },
+  {
+    "fileName": "proxyhandler-setprototypeof.js",
+    "title": "JavaScript Demo: handler.setPrototypeOf()",
+    "type": "js"
+  }
+]

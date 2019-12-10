@@ -1,0 +1,12 @@
+[
+  {
+    "fileName": "json-parse.js",
+    "title": "JavaScript Demo: JSON.parse()",
+    "type": "js"
+  },
+  {
+    "fileName": "json-stringify.js",
+    "title": "JavaScript Demo: JSON.stringify()",
+    "type": "js"
+  }
+]

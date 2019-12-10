@@ -1,0 +1,22 @@
+[
+  {
+    "fileName": "weakmap-prototype-delete.js",
+    "title": "JavaScript Demo: WeakMap.prototype.delete()",
+    "type": "js"
+  },
+  {
+    "fileName": "weakmap-prototype-get.js",
+    "title": "JavaScript Demo: WeakMap.prototype.get()",
+    "type": "js"
+  },
+  {
+    "fileName": "weakmap-prototype-has.js",
+    "title": "JavaScript Demo: WeakMap.prototype.has()",
+    "type": "js"
+  },
+  {
+    "fileName": "weakmap-prototype-set.js",
+    "title": "JavaScript Demo: WeakMap.prototype.set()",
+    "type": "js"
+  }
+]

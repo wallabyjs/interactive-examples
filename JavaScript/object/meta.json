@@ -1,0 +1,127 @@
+[
+  {
+    "fileName": "object-assign.js",
+    "title": "JavaScript Demo: Object.assign()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-create.js",
+    "title": "JavaScript Demo: Object.create()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-defineproperties.js",
+    "title": "JavaScript Demo: Object.defineProperties()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-defineproperty.js",
+    "title": "JavaScript Demo: Object.defineProperty()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-entries.js",
+    "title": "JavaScript Demo: Object.entries()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-freeze.js",
+    "title": "JavaScript Demo: Object.freeze()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-fromentries.js",
+    "title": "JavaScript Demo: Object.fromEntries()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-getownpropertydescriptor.js",
+    "title": "JavaScript Demo: Object.getOwnPropertyDescriptor()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-getownpropertydescriptors.js",
+    "title": "JavaScript Demo: Object.getOwnPropertyDescriptors()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-getownpropertynames.js",
+    "title": "JavaScript Demo: Object.getOwnPropertyNames()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-getownpropertysymbols.js",
+    "title": "JavaScript Demo: Object.getOwnPropertySymbols()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-getprototypeof.js",
+    "title": "JavaScript Demo: Object.getPrototypeOf()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-isextensible.js",
+    "title": "JavaScript Demo: Object.isExtensible()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-isfrozen.js",
+    "title": "JavaScript Demo: Object.isFrozen()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-issealed.js",
+    "title": "JavaScript Demo: Object.isSealed()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-keys.js",
+    "title": "JavaScript Demo: Object.keys()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-preventextensions.js",
+    "title": "JavaScript Demo: Object.preventExtensions()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-prototype-hasownproperty.js",
+    "title": "JavaScript Demo: Object.prototype.hasOwnProperty()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-prototype-isprototypeof.js",
+    "title": "JavaScript Demo: Object.prototype.isPrototypeOf()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-prototype-propertyisenumerable.js",
+    "title": "JavaScript Demo: Object.prototype.propertyIsEnumerable()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-prototype-seal.js",
+    "title": "JavaScript Demo: Object.prototype.seal()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-prototype-tolocalestring.js",
+    "title": "JavaScript Demo: Object.prototype.tolocalestring()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-prototype-tostring.js",
+    "title": "JavaScript Demo: Object.prototype.toString()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-prototype-valueof.js",
+    "title": "JavaScript Demo: Object.prototype.valueOf()",
+    "type": "js"
+  },
+  {
+    "fileName": "object-values.js",
+    "title": "JavaScript Demo: Object.values()",
+    "type": "js"
+  }
+]

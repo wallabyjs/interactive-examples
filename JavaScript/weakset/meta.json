@@ -1,0 +1,17 @@
+[
+  {
+    "fileName": "weakset-prototype-add.js",
+    "title": "JavaScript Demo: WeakSet.Prototype.add()",
+    "type": "js"
+  },
+  {
+    "fileName": "weakset-prototype-delete.js",
+    "title": "JavaScript Demo: WeakSet.Prototype.delete()",
+    "type": "js"
+  },
+  {
+    "fileName": "weakset-prototype-has.js",
+    "title": "JavaScript Demo: WeakSet.Prototype.has()",
+    "type": "js"
+  }
+]
