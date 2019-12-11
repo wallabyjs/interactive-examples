@@ -1,152 +1,152 @@
 [
   {
     "fileName": "typedarray-buffer.js",
-    "title": "JavaScript Demo: TypedArray.buffer",
+    "title": "JavaScript: TypedArray.buffer",
     "type": "js"
   },
   {
     "fileName": "typedarray-bytelength.js",
-    "title": "JavaScript Demo: TypedArray.byteLength",
+    "title": "JavaScript: TypedArray.byteLength",
     "type": "js"
   },
   {
     "fileName": "typedarray-bytes-per-element.js",
-    "title": "JavaScript Demo: TypedArray.BYTES_PER_ELEMENT",
+    "title": "JavaScript: TypedArray.BYTES_PER_ELEMENT",
     "type": "js"
   },
   {
     "fileName": "typedarray-constructor.js",
-    "title": "JavaScript Demo: TypedArray Constructor",
+    "title": "JavaScript: TypedArray Constructor",
     "type": "js"
   },
   {
     "fileName": "typedarray-copywithin.js",
-    "title": "JavaScript Demo: TypedArray.copyWithin()",
+    "title": "JavaScript: TypedArray.copyWithin()",
     "type": "js"
   },
   {
     "fileName": "typedarray-entries.js",
-    "title": "JavaScript Demo: TypedArray.entries()",
+    "title": "JavaScript: TypedArray.entries()",
     "type": "js"
   },
   {
     "fileName": "typedarray-every.js",
-    "title": "JavaScript Demo: TypedArray.every()",
+    "title": "JavaScript: TypedArray.every()",
     "type": "js"
   },
   {
     "fileName": "typedarray-fill.js",
-    "title": "JavaScript Demo: TypedArray.fill()",
+    "title": "JavaScript: TypedArray.fill()",
     "type": "js"
   },
   {
     "fileName": "typedarray-filter.js",
-    "title": "JavaScript Demo: TypedArray.filter()",
+    "title": "JavaScript: TypedArray.filter()",
     "type": "js"
   },
   {
     "fileName": "typedarray-find.js",
-    "title": "JavaScript Demo: TypedArray.find()",
+    "title": "JavaScript: TypedArray.find()",
     "type": "js"
   },
   {
     "fileName": "typedarray-findindex.js",
-    "title": "JavaScript Demo: TypedArray.findIndex()",
+    "title": "JavaScript: TypedArray.findIndex()",
     "type": "js"
   },
   {
     "fileName": "typedarray-from.js",
-    "title": "JavaScript Demo: TypedArray.from()",
+    "title": "JavaScript: TypedArray.from()",
     "type": "js"
   },
   {
     "fileName": "typedarray-includes.js",
-    "title": "JavaScript Demo: TypedArray.includes()",
+    "title": "JavaScript: TypedArray.includes()",
     "type": "js"
   },
   {
     "fileName": "typedarray-indexof.js",
-    "title": "JavaScript Demo: TypedArray.indexOf()",
+    "title": "JavaScript: TypedArray.indexOf()",
     "type": "js"
   },
   {
     "fileName": "typedarray-join.js",
-    "title": "JavaScript Demo: TypedArray.join()",
+    "title": "JavaScript: TypedArray.join()",
     "type": "js"
   },
   {
     "fileName": "typedarray-keys.js",
-    "title": "JavaScript Demo: TypedArray.keys()",
+    "title": "JavaScript: TypedArray.keys()",
     "type": "js"
   },
   {
     "fileName": "typedarray-lastindexof.js",
-    "title": "JavaScript Demo: TypedArray.lastIndexOf()",
+    "title": "JavaScript: TypedArray.lastIndexOf()",
     "type": "js"
   },
   {
     "fileName": "typedarray-length.js",
-    "title": "JavaScript Demo: TypedArray.length",
+    "title": "JavaScript: TypedArray.length",
     "type": "js"
   },
   {
     "fileName": "typedarray-map.js",
-    "title": "JavaScript Demo: TypedArray.map()",
+    "title": "JavaScript: TypedArray.map()",
     "type": "js"
   },
   {
     "fileName": "typedarray-name.js",
-    "title": "JavaScript Demo: TypedArray.name",
+    "title": "JavaScript: TypedArray.name",
     "type": "js"
   },
   {
     "fileName": "typedarray-of.js",
-    "title": "JavaScript Demo: TypedArray.of()",
+    "title": "JavaScript: TypedArray.of()",
     "type": "js"
   },
   {
     "fileName": "typedarray-reduce.js",
-    "title": "JavaScript Demo: TypedArray.reduce()",
+    "title": "JavaScript: TypedArray.reduce()",
     "type": "js"
   },
   {
     "fileName": "typedarray-reverse.js",
-    "title": "JavaScript Demo: TypedArray.reverse()",
+    "title": "JavaScript: TypedArray.reverse()",
     "type": "js"
   },
   {
     "fileName": "typedarray-set.js",
-    "title": "JavaScript Demo: TypedArray.set()",
+    "title": "JavaScript: TypedArray.set()",
     "type": "js"
   },
   {
     "fileName": "typedarray-slice.js",
-    "title": "JavaScript Demo: TypedArray.slice()",
+    "title": "JavaScript: TypedArray.slice()",
     "type": "js"
   },
   {
     "fileName": "typedarray-some.js",
-    "title": "JavaScript Demo: TypedArray.some()",
+    "title": "JavaScript: TypedArray.some()",
     "type": "js"
   },
   {
     "fileName": "typedarray-sort.js",
-    "title": "JavaScript Demo: TypedArray.sort()",
+    "title": "JavaScript: TypedArray.sort()",
     "type": "js"
   },
   {
     "fileName": "typedarray-subarray.js",
-    "title": "JavaScript Demo: TypedArray.subarray()",
+    "title": "JavaScript: TypedArray.subarray()",
     "type": "js"
   },
   {
     "fileName": "typedarray-tostring.js",
-    "title": "JavaScript Demo: TypedArray.toString()",
+    "title": "JavaScript: TypedArray.toString()",
     "type": "js"
   },
   {
     "fileName": "typedarray-values.js",
-    "title": "JavaScript Demo: TypedArray.values()",
+    "title": "JavaScript: TypedArray.values()",
     "type": "js"
   }
 ]

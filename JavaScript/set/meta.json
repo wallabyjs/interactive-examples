@@ -1,52 +1,52 @@
 [
   {
     "fileName": "set-prototype-@@iterator.js",
-    "title": "JavaScript Demo: Set.prototype[@@iterator]()",
+    "title": "JavaScript: Set.prototype[@@iterator]()",
     "type": "js"
   },
   {
     "fileName": "set-prototype-add.js",
-    "title": "JavaScript Demo: Set.prototype.add()",
+    "title": "JavaScript: Set.prototype.add()",
     "type": "js"
   },
   {
     "fileName": "set-prototype-clear.js",
-    "title": "JavaScript Demo: Set.prototype.clear()",
+    "title": "JavaScript: Set.prototype.clear()",
     "type": "js"
   },
   {
     "fileName": "set-prototype-constructor.js",
-    "title": "JavaScript Demo: Set.prototype Constructor",
+    "title": "JavaScript: Set.prototype Constructor",
     "type": "js"
   },
   {
     "fileName": "set-prototype-delete.js",
-    "title": "JavaScript Demo: Set.prototype.delete()",
+    "title": "JavaScript: Set.prototype.delete()",
     "type": "js"
   },
   {
     "fileName": "set-prototype-entries.js",
-    "title": "JavaScript Demo: Set.prototype.entries()",
+    "title": "JavaScript: Set.prototype.entries()",
     "type": "js"
   },
   {
     "fileName": "set-prototype-foreach.js",
-    "title": "JavaScript Demo: Set.prototype.forEach()",
+    "title": "JavaScript: Set.prototype.forEach()",
     "type": "js"
   },
   {
     "fileName": "set-prototype-has.js",
-    "title": "JavaScript Demo: Set.prototype.has()",
+    "title": "JavaScript: Set.prototype.has()",
     "type": "js"
   },
   {
     "fileName": "set-prototype-size.js",
-    "title": "JavaScript Demo: Set.prototype.size",
+    "title": "JavaScript: Set.prototype.size",
     "type": "js"
   },
   {
     "fileName": "set-prototype-values.js",
-    "title": "JavaScript Demo: Set.prototype.values",
+    "title": "JavaScript: Set.prototype.values",
     "type": "js"
   }
 ]

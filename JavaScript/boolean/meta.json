@@ -1,17 +1,17 @@
 [
   {
     "fileName": "boolean-constructor.js",
-    "title": "JavaScript Demo: Boolean Constructor",
+    "title": "JavaScript: Boolean Constructor",
     "type": "js"
   },
   {
     "fileName": "boolean-tostring.js",
-    "title": "JavaScript Demo: Boolean.toString()",
+    "title": "JavaScript: Boolean.toString()",
     "type": "js"
   },
   {
     "fileName": "boolean-valueof.js",
-    "title": "JavaScript Demo: Boolean.valueOf()",
+    "title": "JavaScript: Boolean.valueOf()",
     "type": "js"
   }
 ]

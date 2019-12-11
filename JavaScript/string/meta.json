@@ -1,185 +1,185 @@
 [
   {
     "fileName": "string-charat.js",
-    "title": "JavaScript Demo: String.charAt()",
+    "title": "JavaScript: String.charAt()",
     "type": "js"
   },
   {
     "fileName": "string-charcodeat.js",
-    "title": "JavaScript Demo: String.charCodeAt()",
+    "title": "JavaScript: String.charCodeAt()",
     "type": "js"
   },
   {
     "fileName": "string-codepointat.js",
-    "title": "JavaScript Demo: String.codePointAt()",
+    "title": "JavaScript: String.codePointAt()",
     "type": "js"
   },
   {
     "fileName": "string-concat.js",
-    "title": "JavaScript Demo: String.concat()",
+    "title": "JavaScript: String.concat()",
     "type": "js"
   },
   {
     "fileName": "string-endswith.js",
-    "title": "JavaScript Demo: String.endsWith()",
+    "title": "JavaScript: String.endsWith()",
     "type": "js"
   },
   {
     "fileName": "string-fromcharcode.js",
-    "title": "JavaScript Demo: String.fromCharCode()",
+    "title": "JavaScript: String.fromCharCode()",
     "type": "js"
   },
   {
     "fileName": "string-fromcodepoint.js",
-    "title": "JavaScript Demo: String.fromCodePoint()",
+    "title": "JavaScript: String.fromCodePoint()",
     "type": "js"
   },
   {
     "fileName": "string-includes.js",
-    "title": "JavaScript Demo: String.includes()",
+    "title": "JavaScript: String.includes()",
     "type": "js"
   },
   {
     "fileName": "string-indexof.js",
-    "title": "JavaScript Demo: String.indexOf()",
+    "title": "JavaScript: String.indexOf()",
     "type": "js"
   },
   {
     "fileName": "string-iterator.js",
-    "title": "JavaScript Demo: String.prototype[@@iterator]()",
+    "title": "JavaScript: String.prototype[@@iterator]()",
     "type": "js"
   },
   {
     "fileName": "string-lastindexof.js",
-    "title": "JavaScript Demo: String.lastIndexOf()",
+    "title": "JavaScript: String.lastIndexOf()",
     "type": "js"
   },
   {
     "baseTmpl": "tmpl/live-js-tmpl.html",
     "fileName": "string-length.js",
-    "title": "JavaScript Demo: String.length",
+    "title": "JavaScript: String.length",
     "type": "js"
   },
   {
     "fileName": "string-localecompare.js",
-    "title": "JavaScript Demo: String.localeCompare()",
+    "title": "JavaScript: String.localeCompare()",
     "type": "js"
   },
   {
     "fileName": "string-match.js",
-    "title": "JavaScript Demo: String.match()",
+    "title": "JavaScript: String.match()",
     "type": "js"
   },
   {
     "fileName": "string-matchall.js",
-    "title": "JavaScript Demo: String.matchAll()",
+    "title": "JavaScript: String.matchAll()",
     "type": "js"
   },
   {
     "fileName": "string-normalize.js",
-    "title": "JavaScript Demo: String.normalize()",
+    "title": "JavaScript: String.normalize()",
     "type": "js"
   },
   {
     "fileName": "string-padend.js",
-    "title": "JavaScript Demo: String.padEnd()",
+    "title": "JavaScript: String.padEnd()",
     "type": "js"
   },
   {
     "fileName": "string-padstart.js",
-    "title": "JavaScript Demo: String.padStart()",
+    "title": "JavaScript: String.padStart()",
     "type": "js"
   },
   {
     "fileName": "string-raw.js",
-    "title": "JavaScript Demo: String.raw()",
+    "title": "JavaScript: String.raw()",
     "type": "js"
   },
   {
     "fileName": "string-repeat.js",
-    "title": "JavaScript Demo: String.repeat()",
+    "title": "JavaScript: String.repeat()",
     "type": "js"
   },
   {
     "fileName": "string-replace.js",
-    "title": "JavaScript Demo: String.replace()",
+    "title": "JavaScript: String.replace()",
     "type": "js"
   },
   {
     "fileName": "string-search.js",
-    "title": "JavaScript Demo: String.search()",
+    "title": "JavaScript: String.search()",
     "type": "js"
   },
   {
     "fileName": "string-slice.js",
-    "title": "JavaScript Demo: String.slice()",
+    "title": "JavaScript: String.slice()",
     "type": "js"
   },
   {
     "fileName": "string-split.js",
-    "title": "JavaScript Demo: String.split()",
+    "title": "JavaScript: String.split()",
     "type": "js"
   },
   {
     "fileName": "string-startswith.js",
-    "title": "JavaScript Demo: String.startsWith()",
+    "title": "JavaScript: String.startsWith()",
     "type": "js"
   },
   {
     "fileName": "string-substr.js",
-    "title": "JavaScript Demo: String.substr()",
+    "title": "JavaScript: String.substr()",
     "type": "js"
   },
   {
     "fileName": "string-substring.js",
-    "title": "JavaScript Demo: String.substring()",
+    "title": "JavaScript: String.substring()",
     "type": "js"
   },
   {
     "fileName": "string-tolocalelowercase.js",
-    "title": "JavaScript Demo: String.toLocaleLowerCase()",
+    "title": "JavaScript: String.toLocaleLowerCase()",
     "type": "js"
   },
   {
     "fileName": "string-tolocaleuppercase.js",
-    "title": "JavaScript Demo: String.toLocaleUpperCase()",
+    "title": "JavaScript: String.toLocaleUpperCase()",
     "type": "js"
   },
   {
     "fileName": "string-tolowercase.js",
-    "title": "JavaScript Demo: String.toLowerCase()",
+    "title": "JavaScript: String.toLowerCase()",
     "type": "js"
   },
   {
     "baseTmpl": "tmpl/live-js-tmpl.html",
     "fileName": "string-tostring.js",
-    "title": "JavaScript Demo: String.toString()",
+    "title": "JavaScript: String.toString()",
     "type": "js"
   },
   {
     "fileName": "string-touppercase.js",
-    "title": "JavaScript Demo: String.toUpperCase()",
+    "title": "JavaScript: String.toUpperCase()",
     "type": "js"
   },
   {
     "fileName": "string-trim.js",
-    "title": "JavaScript Demo: String.trim()",
+    "title": "JavaScript: String.trim()",
     "type": "js"
   },
   {
     "fileName": "string-trimend.js",
-    "title": "JavaScript Demo: String.trimEnd()",
+    "title": "JavaScript: String.trimEnd()",
     "type": "js"
   },
   {
     "fileName": "string-trimstart.js",
-    "title": "JavaScript Demo: String.trimStart()",
+    "title": "JavaScript: String.trimStart()",
     "type": "js"
   },
   {
     "baseTmpl": "tmpl/live-js-tmpl.html",
     "fileName": "string-valueof.js",
-    "title": "JavaScript Demo: String.valueOf()",
+    "title": "JavaScript: String.valueOf()",
     "type": "js"
   }
 ]

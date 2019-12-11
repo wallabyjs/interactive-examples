@@ -1,72 +1,72 @@
 [
   {
     "fileName": "globalprops-decodeuri.js",
-    "title": "JavaScript Demo: Standard built-in objects - decodeURI()",
+    "title": "JavaScript: Standard built-in objects - decodeURI()",
     "type": "js"
   },
   {
     "fileName": "globalprops-decodeuricomponent.js",
-    "title": "JavaScript Demo: Standard built-in objects - decodeURIComponent()",
+    "title": "JavaScript: Standard built-in objects - decodeURIComponent()",
     "type": "js"
   },
   {
     "fileName": "globalprops-encodeuri.js",
-    "title": "JavaScript Demo: Standard built-in objects - encodeURI()",
+    "title": "JavaScript: Standard built-in objects - encodeURI()",
     "type": "js"
   },
   {
     "fileName": "globalprops-encodeuricomponent.js",
-    "title": "JavaScript Demo: Standard built-in objects - encodeURIComponent()",
+    "title": "JavaScript: Standard built-in objects - encodeURIComponent()",
     "type": "js"
   },
   {
     "fileName": "globalprops-eval.js",
-    "title": "JavaScript Demo: Standard built-in objects - eval()",
+    "title": "JavaScript: Standard built-in objects - eval()",
     "type": "js"
   },
   {
     "fileName": "globalprops-globalthis.js",
-    "title": "JavaScript Demo: Standard built-in objects - globalThis",
+    "title": "JavaScript: Standard built-in objects - globalThis",
     "type": "js"
   },
   {
     "fileName": "globalprops-infinity.js",
-    "title": "JavaScript Demo: Standard built-in objects - infinity",
+    "title": "JavaScript: Standard built-in objects - infinity",
     "type": "js"
   },
   {
     "fileName": "globalprops-isfinite.js",
-    "title": "JavaScript Demo: Standard built-in objects - isFinite()",
+    "title": "JavaScript: Standard built-in objects - isFinite()",
     "type": "js"
   },
   {
     "fileName": "globalprops-isnan.js",
-    "title": "JavaScript Demo: Standard built-in objects - isNaN()",
+    "title": "JavaScript: Standard built-in objects - isNaN()",
     "type": "js"
   },
   {
     "fileName": "globalprops-nan.js",
-    "title": "JavaScript Demo: Standard built-in objects - NaN",
+    "title": "JavaScript: Standard built-in objects - NaN",
     "type": "js"
   },
   {
     "fileName": "globalprops-null.js",
-    "title": "JavaScript Demo: Standard built-in objects - Null",
+    "title": "JavaScript: Standard built-in objects - Null",
     "type": "js"
   },
   {
     "fileName": "globalprops-parsefloat.js",
-    "title": "JavaScript Demo: Standard built-in objects - parseFloat()",
+    "title": "JavaScript: Standard built-in objects - parseFloat()",
     "type": "js"
   },
   {
     "fileName": "globalprops-parseint.js",
-    "title": "JavaScript Demo: Standard built-in objects - parseInt()",
+    "title": "JavaScript: Standard built-in objects - parseInt()",
     "type": "js"
   },
   {
     "fileName": "globalprops-undefined.js",
-    "title": "JavaScript Demo: Standard built-in objects - undefined",
+    "title": "JavaScript: Standard built-in objects - undefined",
     "type": "js"
   }
 ]

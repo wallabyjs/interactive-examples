@@ -1,37 +1,37 @@
 [
   {
     "fileName": "functions-arguments.js",
-    "title": "JavaScript Demo: Functions Arguments",
+    "title": "JavaScript: Functions Arguments",
     "type": "js"
   },
   {
     "fileName": "functions-arrow.js",
-    "title": "JavaScript Demo: Functions =>",
+    "title": "JavaScript: Functions =>",
     "type": "js"
   },
   {
     "fileName": "functions-default.js",
-    "title": "JavaScript Demo: Functions Default",
+    "title": "JavaScript: Functions Default",
     "type": "js"
   },
   {
     "fileName": "functions-definitions.js",
-    "title": "JavaScript Demo: Functions Definitions",
+    "title": "JavaScript: Functions Definitions",
     "type": "js"
   },
   {
     "fileName": "functions-getter.js",
-    "title": "JavaScript Demo: Functions Getter",
+    "title": "JavaScript: Functions Getter",
     "type": "js"
   },
   {
     "fileName": "functions-restparameters.js",
-    "title": "JavaScript Demo: Functions Rest Parameters",
+    "title": "JavaScript: Functions Rest Parameters",
     "type": "js"
   },
   {
     "fileName": "functions-setter.js",
-    "title": "JavaScript Demo: Functions Setter",
+    "title": "JavaScript: Functions Setter",
     "type": "js"
   }
 ]

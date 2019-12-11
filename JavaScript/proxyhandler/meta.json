@@ -1,67 +1,67 @@
 [
   {
     "fileName": "proxyhandler-apply.js",
-    "title": "JavaScript Demo: handler.apply()",
+    "title": "JavaScript: handler.apply()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-construct.js",
-    "title": "JavaScript Demo: handler.construct()",
+    "title": "JavaScript: handler.construct()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-defineproperty.js",
-    "title": "JavaScript Demo: handler.defineProperty()",
+    "title": "JavaScript: handler.defineProperty()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-deleteproperty.js",
-    "title": "JavaScript Demo: handler.deleteProperty()",
+    "title": "JavaScript: handler.deleteProperty()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-get.js",
-    "title": "JavaScript Demo: handler.get()",
+    "title": "JavaScript: handler.get()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-getownpropertydescriptor.js",
-    "title": "JavaScript Demo: handler.getOwnPropertyDescriptor()",
+    "title": "JavaScript: handler.getOwnPropertyDescriptor()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-getprototypeof.js",
-    "title": "JavaScript Demo: handler.getPrototypeOf()",
+    "title": "JavaScript: handler.getPrototypeOf()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-has.js",
-    "title": "JavaScript Demo: handler.has()",
+    "title": "JavaScript: handler.has()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-isextensible.js",
-    "title": "JavaScript Demo: handler.isExtensible()",
+    "title": "JavaScript: handler.isExtensible()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-ownkeys.js",
-    "title": "JavaScript Demo: handler.ownKeys()",
+    "title": "JavaScript: handler.ownKeys()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-preventextensions.js",
-    "title": "JavaScript Demo: handler.preventExtensions()",
+    "title": "JavaScript: handler.preventExtensions()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-set.js",
-    "title": "JavaScript Demo: handler.set()",
+    "title": "JavaScript: handler.set()",
     "type": "js"
   },
   {
     "fileName": "proxyhandler-setprototypeof.js",
-    "title": "JavaScript Demo: handler.setPrototypeOf()",
+    "title": "JavaScript: handler.setPrototypeOf()",
     "type": "js"
   }
 ]

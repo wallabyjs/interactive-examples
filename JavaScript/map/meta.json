@@ -1,62 +1,62 @@
 [
   {
     "fileName": "map-prototype-@@iterator.js",
-    "title": "JavaScript Demo: Map.prototype[@@iterator]()",
+    "title": "JavaScript: Map.prototype[@@iterator]()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-@@tostringtag.js",
-    "title": "JavaScript Demo: Map.prototype[@@toStringTag]",
+    "title": "JavaScript: Map.prototype[@@toStringTag]",
     "type": "js"
   },
   {
     "fileName": "map-prototype-clear.js",
-    "title": "JavaScript Demo: Map.prototype.clear()",
+    "title": "JavaScript: Map.prototype.clear()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-delete.js",
-    "title": "JavaScript Demo: Map.prototype.delete()",
+    "title": "JavaScript: Map.prototype.delete()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-entries.js",
-    "title": "JavaScript Demo: Map.prototype.entries()",
+    "title": "JavaScript: Map.prototype.entries()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-foreach.js",
-    "title": "JavaScript Demo: Map.prototype.forEach()",
+    "title": "JavaScript: Map.prototype.forEach()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-get.js",
-    "title": "JavaScript Demo: Map.prototype.get()",
+    "title": "JavaScript: Map.prototype.get()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-has.js",
-    "title": "JavaScript Demo: Map.prototype.has()",
+    "title": "JavaScript: Map.prototype.has()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-keys.js",
-    "title": "JavaScript Demo: Map.prototype.keys()",
+    "title": "JavaScript: Map.prototype.keys()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-set.js",
-    "title": "JavaScript Demo: Map.prototype.set()",
+    "title": "JavaScript: Map.prototype.set()",
     "type": "js"
   },
   {
     "fileName": "map-prototype-size.js",
-    "title": "JavaScript Demo: Map.prototype.size",
+    "title": "JavaScript: Map.prototype.size",
     "type": "js"
   },
   {
     "fileName": "map-prototype-values.js",
-    "title": "JavaScript Demo: Map.prototype.values",
+    "title": "JavaScript: Map.prototype.values",
     "type": "js"
   }
 ]

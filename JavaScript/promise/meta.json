@@ -1,42 +1,42 @@
 [
   {
     "fileName": "promise-all.js",
-    "title": "JavaScript Demo: Promise.all()",
+    "title": "JavaScript: Promise.all()",
     "type": "js"
   },
   {
     "fileName": "promise-allsettled.js",
-    "title": "JavaScript Demo: Promise.allSettled()",
+    "title": "JavaScript: Promise.allSettled()",
     "type": "js"
   },
   {
     "fileName": "promise-catch.js",
-    "title": "JavaScript Demo: Promise.catch()",
+    "title": "JavaScript: Promise.catch()",
     "type": "js"
   },
   {
     "fileName": "promise-constructor.js",
-    "title": "JavaScript Demo: Promise Constructor",
+    "title": "JavaScript: Promise Constructor",
     "type": "js"
   },
   {
     "fileName": "promise-race.js",
-    "title": "JavaScript Demo: Promise.race()",
+    "title": "JavaScript: Promise.race()",
     "type": "js"
   },
   {
     "fileName": "promise-reject.js",
-    "title": "JavaScript Demo: Promise.reject()",
+    "title": "JavaScript: Promise.reject()",
     "type": "js"
   },
   {
     "fileName": "promise-resolve.js",
-    "title": "JavaScript Demo: Promise.resolve()",
+    "title": "JavaScript: Promise.resolve()",
     "type": "js"
   },
   {
     "fileName": "promise-then.js",
-    "title": "JavaScript Demo: Promise.then()",
+    "title": "JavaScript: Promise.then()",
     "type": "js"
   }
 ]

@@ -1,52 +1,52 @@
 [
   {
     "fileName": "atomics-add.js",
-    "title": "JavaScript Demo: Atomics.add()",
+    "title": "JavaScript: Atomics.add()",
     "type": "js"
   },
   {
     "fileName": "atomics-and.js",
-    "title": "JavaScript Demo: Atomics.and()",
+    "title": "JavaScript: Atomics.and()",
     "type": "js"
   },
   {
     "fileName": "atomics-compareexchange.js",
-    "title": "JavaScript Demo: Atomics.compareExchange()",
+    "title": "JavaScript: Atomics.compareExchange()",
     "type": "js"
   },
   {
     "fileName": "atomics-exchange.js",
-    "title": "JavaScript Demo: Atomics.exchange()",
+    "title": "JavaScript: Atomics.exchange()",
     "type": "js"
   },
   {
     "fileName": "atomics-islockfree.js",
-    "title": "JavaScript Demo: Atomics.isLockFree()",
+    "title": "JavaScript: Atomics.isLockFree()",
     "type": "js"
   },
   {
     "fileName": "atomics-load.js",
-    "title": "JavaScript Demo: Atomics.load()",
+    "title": "JavaScript: Atomics.load()",
     "type": "js"
   },
   {
     "fileName": "atomics-or.js",
-    "title": "JavaScript Demo: Atomics.or()",
+    "title": "JavaScript: Atomics.or()",
     "type": "js"
   },
   {
     "fileName": "atomics-store.js",
-    "title": "JavaScript Demo: Atomics.store()",
+    "title": "JavaScript: Atomics.store()",
     "type": "js"
   },
   {
     "fileName": "atomics-sub.js",
-    "title": "JavaScript Demo: Atomics.sub()",
+    "title": "JavaScript: Atomics.sub()",
     "type": "js"
   },
   {
     "fileName": "atomics-xor.js",
-    "title": "JavaScript Demo: Atomics.xor()",
+    "title": "JavaScript: Atomics.xor()",
     "type": "js"
   }
 ]

@@ -1,37 +1,37 @@
 [
   {
     "fileName": "function-apply.js",
-    "title": "JavaScript Demo: Function.apply()",
+    "title": "JavaScript: Function.apply()",
     "type": "js"
   },
   {
     "fileName": "function-bind.js",
-    "title": "JavaScript Demo: Function.bind()",
+    "title": "JavaScript: Function.bind()",
     "type": "js"
   },
   {
     "fileName": "function-call.js",
-    "title": "JavaScript Demo: Function.call()",
+    "title": "JavaScript: Function.call()",
     "type": "js"
   },
   {
     "fileName": "function-constructor.js",
-    "title": "JavaScript Demo: Function()",
+    "title": "JavaScript: Function()",
     "type": "js"
   },
   {
     "fileName": "function-length.js",
-    "title": "JavaScript Demo: Function.length",
+    "title": "JavaScript: Function.length",
     "type": "js"
   },
   {
     "fileName": "function-name.js",
-    "title": "JavaScript Demo: Function.name",
+    "title": "JavaScript: Function.name",
     "type": "js"
   },
   {
     "fileName": "function-tostring.js",
-    "title": "JavaScript Demo: Function.toString()",
+    "title": "JavaScript: Function.toString()",
     "type": "js"
   }
 ]

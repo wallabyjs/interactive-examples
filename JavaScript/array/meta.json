@@ -1,157 +1,157 @@
 [
   {
     "fileName": "array-concat.js",
-    "title": "JavaScript Demo: Array.concat()",
+    "title": "JavaScript: Array.concat()",
     "type": "js"
   },
   {
     "fileName": "array-copywithin.js",
-    "title": "JavaScript Demo: Array.copyWithin()",
+    "title": "JavaScript: Array.copyWithin()",
     "type": "js"
   },
   {
     "fileName": "array-entries.js",
-    "title": "JavaScript Demo: Array.entries()",
+    "title": "JavaScript: Array.entries()",
     "type": "js"
   },
   {
     "fileName": "array-every.js",
-    "title": "JavaScript Demo: Array.every()",
+    "title": "JavaScript: Array.every()",
     "type": "js"
   },
   {
     "fileName": "array-fill.js",
-    "title": "JavaScript Demo: Array.fill()",
+    "title": "JavaScript: Array.fill()",
     "type": "js"
   },
   {
     "fileName": "array-filter.js",
-    "title": "JavaScript Demo: Array.filter()",
+    "title": "JavaScript: Array.filter()",
     "type": "js"
   },
   {
     "fileName": "array-find.js",
-    "title": "JavaScript Demo: Array.find()",
+    "title": "JavaScript: Array.find()",
     "type": "js"
   },
   {
     "fileName": "array-findindex.js",
-    "title": "JavaScript Demo: Array.findIndex()",
+    "title": "JavaScript: Array.findIndex()",
     "type": "js"
   },
   {
     "fileName": "array-foreach.js",
-    "title": "JavaScript Demo: Array.forEach()",
+    "title": "JavaScript: Array.forEach()",
     "type": "js"
   },
   {
     "fileName": "array-from.js",
-    "title": "JavaScript Demo: Array.from()",
+    "title": "JavaScript: Array.from()",
     "type": "js"
   },
   {
     "fileName": "array-includes.js",
-    "title": "JavaScript Demo: Array.includes()",
+    "title": "JavaScript: Array.includes()",
     "type": "js"
   },
   {
     "fileName": "array-indexof.js",
-    "title": "JavaScript Demo: Array.indexOf()",
+    "title": "JavaScript: Array.indexOf()",
     "type": "js"
   },
   {
     "fileName": "array-join.js",
-    "title": "JavaScript Demo: Array.join()",
+    "title": "JavaScript: Array.join()",
     "type": "js"
   },
   {
     "fileName": "array-keys.js",
-    "title": "JavaScript Demo: Array.keys()",
+    "title": "JavaScript: Array.keys()",
     "type": "js"
   },
   {
     "fileName": "array-lastindexof.js",
-    "title": "JavaScript Demo: Array.lastIndexOf()",
+    "title": "JavaScript: Array.lastIndexOf()",
     "type": "js"
   },
   {
     "fileName": "array-length.js",
-    "title": "JavaScript Demo: Array.length",
+    "title": "JavaScript: Array.length",
     "type": "js"
   },
   {
     "fileName": "array-map.js",
-    "title": "JavaScript Demo: Array.map()",
+    "title": "JavaScript: Array.map()",
     "type": "js"
   },
   {
     "fileName": "array-push.js",
-    "title": "JavaScript Demo: Array.push()",
+    "title": "JavaScript: Array.push()",
     "type": "js"
   },
   {
     "fileName": "array-pop.js",
-    "title": "JavaScript Demo: Array.pop()",
+    "title": "JavaScript: Array.pop()",
     "type": "js"
   },
   {
     "fileName": "array-reduce-right.js",
-    "title": "JavaScript Demo: Array.reduceRight()",
+    "title": "JavaScript: Array.reduceRight()",
     "type": "js"
   },
   {
     "fileName": "array-reduce.js",
-    "title": "JavaScript Demo: Array.reduce()",
+    "title": "JavaScript: Array.reduce()",
     "type": "js"
   },
   {
     "fileName": "array-reverse.js",
-    "title": "JavaScript Demo: Array.reverse()",
+    "title": "JavaScript: Array.reverse()",
     "type": "js"
   },
   {
     "fileName": "array-shift.js",
-    "title": "JavaScript Demo: Array.shift()",
+    "title": "JavaScript: Array.shift()",
     "type": "js"
   },
   {
     "fileName": "array-slice.js",
-    "title": "JavaScript Demo: Array.slice()",
+    "title": "JavaScript: Array.slice()",
     "type": "js"
   },
   {
     "fileName": "array-some.js",
-    "title": "JavaScript Demo: Array.some()",
+    "title": "JavaScript: Array.some()",
     "type": "js"
   },
   {
     "fileName": "array-sort.js",
-    "title": "JavaScript Demo: Array.sort()",
+    "title": "JavaScript: Array.sort()",
     "type": "js"
   },
   {
     "fileName": "array-splice.js",
-    "title": "JavaScript Demo: Array.splice()",
+    "title": "JavaScript: Array.splice()",
     "type": "js"
   },
   {
     "fileName": "array-tolocalestring.js",
-    "title": "JavaScript Demo: Array.toLocaleString()",
+    "title": "JavaScript: Array.toLocaleString()",
     "type": "js"
   },
   {
     "fileName": "array-tostring.js",
-    "title": "JavaScript Demo: Array.toString()",
+    "title": "JavaScript: Array.toString()",
     "type": "js"
   },
   {
     "fileName": "array-unshift.js",
-    "title": "JavaScript Demo: Array.unshift()",
+    "title": "JavaScript: Array.unshift()",
     "type": "js"
   },
   {
     "fileName": "array-values.js",
-    "title": "JavaScript Demo: Array.values()",
+    "title": "JavaScript: Array.values()",
     "type": "js"
   }
 ]

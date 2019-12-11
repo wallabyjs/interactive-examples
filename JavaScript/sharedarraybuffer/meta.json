@@ -1,17 +1,17 @@
 [
   {
     "fileName": "sharedarraybuffer-bytelength.js",
-    "title": "JavaScript Demo: SharedArrayBuffer.byteLength",
+    "title": "JavaScript: SharedArrayBuffer.byteLength",
     "type": "js"
   },
   {
     "fileName": "sharedarraybuffer-constructor.js",
-    "title": "JavaScript Demo: SharedArrayBuffer Constructor",
+    "title": "JavaScript: SharedArrayBuffer Constructor",
     "type": "js"
   },
   {
     "fileName": "sharedarraybuffer-slice.js",
-    "title": "JavaScript Demo: SharedArrayBuffer.slice()",
+    "title": "JavaScript: SharedArrayBuffer.slice()",
     "type": "js"
   }
 ]

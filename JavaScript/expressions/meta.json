@@ -1,142 +1,142 @@
 [
   {
     "fileName": "expressions-arithmetic.js",
-    "title": "JavaScript Demo: Expressions - Arithmetic",
+    "title": "JavaScript: Expressions - Arithmetic",
     "type": "js"
   },
   {
     "fileName": "expressions-assignment.js",
-    "title": "JavaScript Demo: Expressions - Assignment",
+    "title": "JavaScript: Expressions - Assignment",
     "type": "js"
   },
   {
     "fileName": "expressions-bitwiseoperators.js",
-    "title": "JavaScript Demo: Expressions - Bitwise operators",
+    "title": "JavaScript: Expressions - Bitwise operators",
     "type": "js"
   },
   {
     "fileName": "expressions-classexpression.js",
-    "title": "JavaScript Demo: Expressions - class expression",
+    "title": "JavaScript: Expressions - class expression",
     "type": "js"
   },
   {
     "fileName": "expressions-commaoperators.js",
-    "title": "JavaScript Demo: Expressions - Comma operator",
+    "title": "JavaScript: Expressions - Comma operator",
     "type": "js"
   },
   {
     "fileName": "expressions-comparisonoperators.js",
-    "title": "JavaScript Demo: Expressions - Comparison operators",
+    "title": "JavaScript: Expressions - Comparison operators",
     "type": "js"
   },
   {
     "fileName": "expressions-conditionaloperators.js",
-    "title": "JavaScript Demo: Expressions - Conditional operator",
+    "title": "JavaScript: Expressions - Conditional operator",
     "type": "js"
   },
   {
     "fileName": "expressions-deleteoperator.js",
-    "title": "JavaScript Demo: Expressions - delete operator",
+    "title": "JavaScript: Expressions - delete operator",
     "type": "js"
   },
   {
     "fileName": "expressions-destructuringassignment.js",
-    "title": "JavaScript Demo: Expressions - Destructuring assignment",
+    "title": "JavaScript: Expressions - Destructuring assignment",
     "type": "js"
   },
   {
     "fileName": "expressions-functionasteriskexpression.js",
-    "title": "JavaScript Demo: Expressions - function* expression",
+    "title": "JavaScript: Expressions - function* expression",
     "type": "js"
   },
   {
     "fileName": "expressions-functionexpression.js",
-    "title": "JavaScript Demo: Expressions - function expression",
+    "title": "JavaScript: Expressions - function expression",
     "type": "js"
   },
   {
     "fileName": "expressions-groupingoperator.js",
-    "title": "JavaScript Demo: Expressions - Grouping operator",
+    "title": "JavaScript: Expressions - Grouping operator",
     "type": "js"
   },
   {
     "fileName": "expressions-inoperator.js",
-    "title": "JavaScript Demo: Expressions - in operator",
+    "title": "JavaScript: Expressions - in operator",
     "type": "js"
   },
   {
     "fileName": "expressions-instanceof.js",
-    "title": "JavaScript Demo: Expressions - instanceof",
+    "title": "JavaScript: Expressions - instanceof",
     "type": "js"
   },
   {
     "fileName": "expressions-logicaloperator.js",
-    "title": "JavaScript Demo: Expressions - Logical operator",
+    "title": "JavaScript: Expressions - Logical operator",
     "type": "js"
   },
   {
     "fileName": "expressions-newoperator.js",
-    "title": "JavaScript Demo: Expressions - new operator",
+    "title": "JavaScript: Expressions - new operator",
     "type": "js"
   },
   {
     "fileName": "expressions-newtarget.js",
-    "title": "JavaScript Demo: Expressions - new.target",
+    "title": "JavaScript: Expressions - new.target",
     "type": "js"
   },
   {
     "fileName": "expressions-nullishcoalescingoperator.js",
-    "title": "JavaScript Demo: Expressions - Nullish coalescing operator",
+    "title": "JavaScript: Expressions - Nullish coalescing operator",
     "type": "js"
   },
   {
     "fileName": "expressions-objectinitializer.js",
-    "title": "JavaScript Demo: Expressions - Object initializer",
+    "title": "JavaScript: Expressions - Object initializer",
     "type": "js"
   },
   {
     "fileName": "expressions-operatorprecedence.js",
-    "title": "JavaScript Demo: Expressions - Operator precedence",
+    "title": "JavaScript: Expressions - Operator precedence",
     "type": "js"
   },
   {
     "fileName": "expressions-optionalchainingoperator.js",
-    "title": "JavaScript Demo: Expressions - Optional chaining operator",
+    "title": "JavaScript: Expressions - Optional chaining operator",
     "type": "js"
   },
   {
     "fileName": "expressions-propertyaccessors.js",
-    "title": "JavaScript Demo: Expressions - Property accessors",
+    "title": "JavaScript: Expressions - Property accessors",
     "type": "js"
   },
   {
     "fileName": "expressions-spreadsyntax.js",
-    "title": "JavaScript Demo: Expressions - Spread syntax",
+    "title": "JavaScript: Expressions - Spread syntax",
     "type": "js"
   },
   {
     "fileName": "expressions-this.js",
-    "title": "JavaScript Demo: Expressions - this",
+    "title": "JavaScript: Expressions - this",
     "type": "js"
   },
   {
     "fileName": "expressions-typeof.js",
-    "title": "JavaScript Demo: Expressions - typeof",
+    "title": "JavaScript: Expressions - typeof",
     "type": "js"
   },
   {
     "fileName": "expressions-voidoperator.js",
-    "title": "JavaScript Demo: Expressions - void operator",
+    "title": "JavaScript: Expressions - void operator",
     "type": "js"
   },
   {
     "fileName": "expressions-yield.js",
-    "title": "JavaScript Demo: Expressions - yield",
+    "title": "JavaScript: Expressions - yield",
     "type": "js"
   },
   {
     "fileName": "expressions-yieldasterisk.js",
-    "title": "JavaScript Demo: Expressions - yield*",
+    "title": "JavaScript: Expressions - yield*",
     "type": "js"
   }
 ]

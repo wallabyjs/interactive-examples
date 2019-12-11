@@ -1,67 +1,67 @@
 [
   {
     "fileName": "reflect-apply.js",
-    "title": "JavaScript Demo: Reflect.apply()",
+    "title": "JavaScript: Reflect.apply()",
     "type": "js"
   },
   {
     "fileName": "reflect-construct.js",
-    "title": "JavaScript Demo: Reflect.construct()",
+    "title": "JavaScript: Reflect.construct()",
     "type": "js"
   },
   {
     "fileName": "reflect-defineproperty.js",
-    "title": "JavaScript Demo: Reflect.defineProperty()",
+    "title": "JavaScript: Reflect.defineProperty()",
     "type": "js"
   },
   {
     "fileName": "reflect-deleteproperty.js",
-    "title": "JavaScript Demo: Reflect.deleteProperty()",
+    "title": "JavaScript: Reflect.deleteProperty()",
     "type": "js"
   },
   {
     "fileName": "reflect-get.js",
-    "title": "JavaScript Demo: Reflect.get()",
+    "title": "JavaScript: Reflect.get()",
     "type": "js"
   },
   {
     "fileName": "reflect-getownpropertydescriptor.js",
-    "title": "JavaScript Demo: Reflect.getOwnPropertyDescriptor()",
+    "title": "JavaScript: Reflect.getOwnPropertyDescriptor()",
     "type": "js"
   },
   {
     "fileName": "reflect-getprototypeof.js",
-    "title": "JavaScript Demo: Reflect.getPrototypeOf()",
+    "title": "JavaScript: Reflect.getPrototypeOf()",
     "type": "js"
   },
   {
     "fileName": "reflect-has.js",
-    "title": "JavaScript Demo: Reflect.has()",
+    "title": "JavaScript: Reflect.has()",
     "type": "js"
   },
   {
     "fileName": "reflect-isextensible.js",
-    "title": "JavaScript Demo: Reflect.isExtensible()",
+    "title": "JavaScript: Reflect.isExtensible()",
     "type": "js"
   },
   {
     "fileName": "reflect-ownkeys.js",
-    "title": "JavaScript Demo: Reflect.ownKeys()",
+    "title": "JavaScript: Reflect.ownKeys()",
     "type": "js"
   },
   {
     "fileName": "reflect-preventextensions.js",
-    "title": "JavaScript Demo: Reflect.preventExtensions()",
+    "title": "JavaScript: Reflect.preventExtensions()",
     "type": "js"
   },
   {
     "fileName": "reflect-set.js",
-    "title": "JavaScript Demo: Reflect.set()",
+    "title": "JavaScript: Reflect.set()",
     "type": "js"
   },
   {
     "fileName": "reflect-setprototypeof.js",
-    "title": "JavaScript Demo: Reflect.setPrototypeOf()",
+    "title": "JavaScript: Reflect.setPrototypeOf()",
     "type": "js"
   }
 ]

@@ -1,217 +1,217 @@
 [
   {
     "fileName": "math-abs.js",
-    "title": "JavaScript Demo: Math.abs()",
+    "title": "JavaScript: Math.abs()",
     "type": "js"
   },
   {
     "fileName": "math-acos.js",
-    "title": "JavaScript Demo: Math.acos()",
+    "title": "JavaScript: Math.acos()",
     "type": "js"
   },
   {
     "fileName": "math-acosh.js",
-    "title": "JavaScript Demo: Math.acosh()",
+    "title": "JavaScript: Math.acosh()",
     "type": "js"
   },
   {
     "fileName": "math-asin.js",
-    "title": "JavaScript Demo: Math.asin()",
+    "title": "JavaScript: Math.asin()",
     "type": "js"
   },
   {
     "fileName": "math-asinh.js",
-    "title": "JavaScript Demo: Math.asinh()",
+    "title": "JavaScript: Math.asinh()",
     "type": "js"
   },
   {
     "fileName": "math-atan.js",
-    "title": "JavaScript Demo: Math.atan()",
+    "title": "JavaScript: Math.atan()",
     "type": "js"
   },
   {
     "fileName": "math-atan2.js",
-    "title": "JavaScript Demo: Math.atan2()",
+    "title": "JavaScript: Math.atan2()",
     "type": "js"
   },
   {
     "fileName": "math-atanh.js",
-    "title": "JavaScript Demo: Math.atanh()",
+    "title": "JavaScript: Math.atanh()",
     "type": "js"
   },
   {
     "fileName": "math-cbrt.js",
-    "title": "JavaScript Demo: Math.cbrt()",
+    "title": "JavaScript: Math.cbrt()",
     "type": "js"
   },
   {
     "fileName": "math-ceil.js",
-    "title": "JavaScript Demo: Math.ceil()",
+    "title": "JavaScript: Math.ceil()",
     "type": "js"
   },
   {
     "fileName": "math-clz32.js",
-    "title": "JavaScript Demo: Math.clz32()",
+    "title": "JavaScript: Math.clz32()",
     "type": "js"
   },
   {
     "fileName": "math-cos.js",
-    "title": "JavaScript Demo: Math.cos()",
+    "title": "JavaScript: Math.cos()",
     "type": "js"
   },
   {
     "fileName": "math-cosh.js",
-    "title": "JavaScript Demo: Math.cosh()",
+    "title": "JavaScript: Math.cosh()",
     "type": "js"
   },
   {
     "fileName": "math-e.js",
-    "title": "JavaScript Demo: Math.E",
+    "title": "JavaScript: Math.E",
     "type": "js"
   },
   {
     "fileName": "math-exp.js",
-    "title": "JavaScript Demo: Math.exp()",
+    "title": "JavaScript: Math.exp()",
     "type": "js"
   },
   {
     "fileName": "math-expm1.js",
-    "title": "JavaScript Demo: Math.expm1()",
+    "title": "JavaScript: Math.expm1()",
     "type": "js"
   },
   {
     "fileName": "math-floor.js",
-    "title": "JavaScript Demo: Math.floor()",
+    "title": "JavaScript: Math.floor()",
     "type": "js"
   },
   {
     "fileName": "math-fround.js",
-    "title": "JavaScript Demo: Math.fround()",
+    "title": "JavaScript: Math.fround()",
     "type": "js"
   },
   {
     "fileName": "math-hypot.js",
-    "title": "JavaScript Demo: Math.hypot()",
+    "title": "JavaScript: Math.hypot()",
     "type": "js"
   },
   {
     "fileName": "math-imul.js",
-    "title": "JavaScript Demo: Math.imul()",
+    "title": "JavaScript: Math.imul()",
     "type": "js"
   },
   {
     "fileName": "math-ln2.js",
-    "title": "JavaScript Demo: Math.LN2",
+    "title": "JavaScript: Math.LN2",
     "type": "js"
   },
   {
     "fileName": "math-ln10.js",
-    "title": "JavaScript Demo: Math.LN10",
+    "title": "JavaScript: Math.LN10",
     "type": "js"
   },
   {
     "fileName": "math-log.js",
-    "title": "JavaScript Demo: Math.log()",
+    "title": "JavaScript: Math.log()",
     "type": "js"
   },
   {
     "fileName": "math-log1p.js",
-    "title": "JavaScript Demo: Math.log1p()",
+    "title": "JavaScript: Math.log1p()",
     "type": "js"
   },
   {
     "fileName": "math-log2.js",
-    "title": "JavaScript Demo: Math.log2()",
+    "title": "JavaScript: Math.log2()",
     "type": "js"
   },
   {
     "fileName": "math-log2e.js",
-    "title": "JavaScript Demo: Math.log2e()",
+    "title": "JavaScript: Math.log2e()",
     "type": "js"
   },
   {
     "fileName": "math-log10.js",
-    "title": "JavaScript Demo: Math.log10()",
+    "title": "JavaScript: Math.log10()",
     "type": "js"
   },
   {
     "fileName": "math-log10e.js",
-    "title": "JavaScript Demo: Math.log10e()",
+    "title": "JavaScript: Math.log10e()",
     "type": "js"
   },
   {
     "fileName": "math-max.js",
-    "title": "JavaScript Demo: Math.max()",
+    "title": "JavaScript: Math.max()",
     "type": "js"
   },
   {
     "fileName": "math-min.js",
-    "title": "JavaScript Demo: Math.min()",
+    "title": "JavaScript: Math.min()",
     "type": "js"
   },
   {
     "fileName": "math-pi.js",
-    "title": "JavaScript Demo: Math.PI",
+    "title": "JavaScript: Math.PI",
     "type": "js"
   },
   {
     "fileName": "math-pow.js",
-    "title": "JavaScript Demo: Math.pow()",
+    "title": "JavaScript: Math.pow()",
     "type": "js"
   },
   {
     "fileName": "math-random.js",
-    "title": "JavaScript Demo: Math.random()",
+    "title": "JavaScript: Math.random()",
     "type": "js"
   },
   {
     "fileName": "math-round.js",
-    "title": "JavaScript Demo: Math.round()",
+    "title": "JavaScript: Math.round()",
     "type": "js"
   },
   {
     "fileName": "math-sign.js",
-    "title": "JavaScript Demo: Math.sign()",
+    "title": "JavaScript: Math.sign()",
     "type": "js"
   },
   {
     "fileName": "math-sin.js",
-    "title": "JavaScript Demo: Math.sin()",
+    "title": "JavaScript: Math.sin()",
     "type": "js"
   },
   {
     "fileName": "math-sinh.js",
-    "title": "JavaScript Demo: Math.sinh()",
+    "title": "JavaScript: Math.sinh()",
     "type": "js"
   },
   {
     "fileName": "math-sqrt.js",
-    "title": "JavaScript Demo: Math.sqrt()",
+    "title": "JavaScript: Math.sqrt()",
     "type": "js"
   },
   {
     "fileName": "math-sqrt1_2.js",
-    "title": "JavaScript Demo: Math.SQRT1_2",
+    "title": "JavaScript: Math.SQRT1_2",
     "type": "js"
   },
   {
     "fileName": "math-sqrt2.js",
-    "title": "JavaScript Demo: Math.SQRT2",
+    "title": "JavaScript: Math.SQRT2",
     "type": "js"
   },
   {
     "fileName": "math-tan.js",
-    "title": "JavaScript Demo: Math.tan()",
+    "title": "JavaScript: Math.tan()",
     "type": "js"
   },
   {
     "fileName": "math-tanh.js",
-    "title": "JavaScript Demo: Math.tanh()",
+    "title": "JavaScript: Math.tanh()",
     "type": "js"
   },
   {
     "fileName": "math-trunc.js",
-    "title": "JavaScript Demo: Math.trunc()",
+    "title": "JavaScript: Math.trunc()",
     "type": "js"
   }
 ]

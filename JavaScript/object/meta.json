@@ -1,127 +1,127 @@
 [
   {
     "fileName": "object-assign.js",
-    "title": "JavaScript Demo: Object.assign()",
+    "title": "JavaScript: Object.assign()",
     "type": "js"
   },
   {
     "fileName": "object-create.js",
-    "title": "JavaScript Demo: Object.create()",
+    "title": "JavaScript: Object.create()",
     "type": "js"
   },
   {
     "fileName": "object-defineproperties.js",
-    "title": "JavaScript Demo: Object.defineProperties()",
+    "title": "JavaScript: Object.defineProperties()",
     "type": "js"
   },
   {
     "fileName": "object-defineproperty.js",
-    "title": "JavaScript Demo: Object.defineProperty()",
+    "title": "JavaScript: Object.defineProperty()",
     "type": "js"
   },
   {
     "fileName": "object-entries.js",
-    "title": "JavaScript Demo: Object.entries()",
+    "title": "JavaScript: Object.entries()",
     "type": "js"
   },
   {
     "fileName": "object-freeze.js",
-    "title": "JavaScript Demo: Object.freeze()",
+    "title": "JavaScript: Object.freeze()",
     "type": "js"
   },
   {
     "fileName": "object-fromentries.js",
-    "title": "JavaScript Demo: Object.fromEntries()",
+    "title": "JavaScript: Object.fromEntries()",
     "type": "js"
   },
   {
     "fileName": "object-getownpropertydescriptor.js",
-    "title": "JavaScript Demo: Object.getOwnPropertyDescriptor()",
+    "title": "JavaScript: Object.getOwnPropertyDescriptor()",
     "type": "js"
   },
   {
     "fileName": "object-getownpropertydescriptors.js",
-    "title": "JavaScript Demo: Object.getOwnPropertyDescriptors()",
+    "title": "JavaScript: Object.getOwnPropertyDescriptors()",
     "type": "js"
   },
   {
     "fileName": "object-getownpropertynames.js",
-    "title": "JavaScript Demo: Object.getOwnPropertyNames()",
+    "title": "JavaScript: Object.getOwnPropertyNames()",
     "type": "js"
   },
   {
     "fileName": "object-getownpropertysymbols.js",
-    "title": "JavaScript Demo: Object.getOwnPropertySymbols()",
+    "title": "JavaScript: Object.getOwnPropertySymbols()",
     "type": "js"
   },
   {
     "fileName": "object-getprototypeof.js",
-    "title": "JavaScript Demo: Object.getPrototypeOf()",
+    "title": "JavaScript: Object.getPrototypeOf()",
     "type": "js"
   },
   {
     "fileName": "object-isextensible.js",
-    "title": "JavaScript Demo: Object.isExtensible()",
+    "title": "JavaScript: Object.isExtensible()",
     "type": "js"
   },
   {
     "fileName": "object-isfrozen.js",
-    "title": "JavaScript Demo: Object.isFrozen()",
+    "title": "JavaScript: Object.isFrozen()",
     "type": "js"
   },
   {
     "fileName": "object-issealed.js",
-    "title": "JavaScript Demo: Object.isSealed()",
+    "title": "JavaScript: Object.isSealed()",
     "type": "js"
   },
   {
     "fileName": "object-keys.js",
-    "title": "JavaScript Demo: Object.keys()",
+    "title": "JavaScript: Object.keys()",
     "type": "js"
   },
   {
     "fileName": "object-preventextensions.js",
-    "title": "JavaScript Demo: Object.preventExtensions()",
+    "title": "JavaScript: Object.preventExtensions()",
     "type": "js"
   },
   {
     "fileName": "object-prototype-hasownproperty.js",
-    "title": "JavaScript Demo: Object.prototype.hasOwnProperty()",
+    "title": "JavaScript: Object.prototype.hasOwnProperty()",
     "type": "js"
   },
   {
     "fileName": "object-prototype-isprototypeof.js",
-    "title": "JavaScript Demo: Object.prototype.isPrototypeOf()",
+    "title": "JavaScript: Object.prototype.isPrototypeOf()",
     "type": "js"
   },
   {
     "fileName": "object-prototype-propertyisenumerable.js",
-    "title": "JavaScript Demo: Object.prototype.propertyIsEnumerable()",
+    "title": "JavaScript: Object.prototype.propertyIsEnumerable()",
     "type": "js"
   },
   {
     "fileName": "object-prototype-seal.js",
-    "title": "JavaScript Demo: Object.prototype.seal()",
+    "title": "JavaScript: Object.prototype.seal()",
     "type": "js"
   },
   {
     "fileName": "object-prototype-tolocalestring.js",
-    "title": "JavaScript Demo: Object.prototype.tolocalestring()",
+    "title": "JavaScript: Object.prototype.tolocalestring()",
     "type": "js"
   },
   {
     "fileName": "object-prototype-tostring.js",
-    "title": "JavaScript Demo: Object.prototype.toString()",
+    "title": "JavaScript: Object.prototype.toString()",
     "type": "js"
   },
   {
     "fileName": "object-prototype-valueof.js",
-    "title": "JavaScript Demo: Object.prototype.valueOf()",
+    "title": "JavaScript: Object.prototype.valueOf()",
     "type": "js"
   },
   {
     "fileName": "object-values.js",
-    "title": "JavaScript Demo: Object.values()",
+    "title": "JavaScript: Object.values()",
     "type": "js"
   }
 ]

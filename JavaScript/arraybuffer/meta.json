@@ -1,22 +1,22 @@
 [
   {
     "fileName": "arraybuffer-constructor.js",
-    "title": "JavaScript Demo: ArrayBuffer Constructor",
+    "title": "JavaScript: ArrayBuffer Constructor",
     "type": "js"
   },
   {
     "fileName": "arraybuffer-bytelength.js",
-    "title": "JavaScript Demo: ArrayBuffer.byteLength",
+    "title": "JavaScript: ArrayBuffer.byteLength",
     "type": "js"
   },
   {
     "fileName": "arraybuffer-isview.js",
-    "title": "JavaScript Demo: ArrayBuffer.isView()",
+    "title": "JavaScript: ArrayBuffer.isView()",
     "type": "js"
   },
   {
     "fileName": "arraybuffer-slice.js",
-    "title": "JavaScript Demo: ArrayBuffer.slice()",
+    "title": "JavaScript: ArrayBuffer.slice()",
     "type": "js"
   }
 ]

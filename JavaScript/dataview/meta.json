@@ -1,122 +1,122 @@
 [
   {
     "fileName": "dataview-buffer.js",
-    "title": "JavaScript Demo: DataView.buffer",
+    "title": "JavaScript: DataView.buffer",
     "type": "js"
   },
   {
     "fileName": "dataview-bytelength.js",
-    "title": "JavaScript Demo: DataView.byteLength",
+    "title": "JavaScript: DataView.byteLength",
     "type": "js"
   },
   {
     "fileName": "dataview-byteoffset.js",
-    "title": "JavaScript Demo: DataView.byteOffset",
+    "title": "JavaScript: DataView.byteOffset",
     "type": "js"
   },
   {
     "fileName": "dataview-constructor.js",
-    "title": "JavaScript Demo: DataView Constructor",
+    "title": "JavaScript: DataView Constructor",
     "type": "js"
   },
   {
     "fileName": "dataview-getbigint64.js",
-    "title": "JavaScript Demo: DataView.getBigInt64()",
+    "title": "JavaScript: DataView.getBigInt64()",
     "type": "js"
   },
   {
     "fileName": "dataview-getbiguint64.js",
-    "title": "JavaScript Demo: DataView.getBigUint64()",
+    "title": "JavaScript: DataView.getBigUint64()",
     "type": "js"
   },
   {
     "fileName": "dataview-getfloat32.js",
-    "title": "JavaScript Demo: DataView.getFloat32()",
+    "title": "JavaScript: DataView.getFloat32()",
     "type": "js"
   },
   {
     "fileName": "dataview-getfloat64.js",
-    "title": "JavaScript Demo: DataView.getFloat64()",
+    "title": "JavaScript: DataView.getFloat64()",
     "type": "js"
   },
   {
     "fileName": "dataview-getint8.js",
-    "title": "JavaScript Demo: DataView.getInt8()",
+    "title": "JavaScript: DataView.getInt8()",
     "type": "js"
   },
   {
     "fileName": "dataview-getint16.js",
-    "title": "JavaScript Demo: DataView.getInt16()",
+    "title": "JavaScript: DataView.getInt16()",
     "type": "js"
   },
   {
     "fileName": "dataview-getint32.js",
-    "title": "JavaScript Demo: DataView.getInt32()",
+    "title": "JavaScript: DataView.getInt32()",
     "type": "js"
   },
   {
     "fileName": "dataview-getuint8.js",
-    "title": "JavaScript Demo: DataView.getUint8()",
+    "title": "JavaScript: DataView.getUint8()",
     "type": "js"
   },
   {
     "fileName": "dataview-getuint16.js",
-    "title": "JavaScript Demo: DataView.getUint16()",
+    "title": "JavaScript: DataView.getUint16()",
     "type": "js"
   },
   {
     "fileName": "dataview-getuint32.js",
-    "title": "JavaScript Demo: DataView.getUint32()",
+    "title": "JavaScript: DataView.getUint32()",
     "type": "js"
   },
   {
     "fileName": "dataview-setbigint64.js",
-    "title": "JavaScript Demo: DataView.setBigInt64()",
+    "title": "JavaScript: DataView.setBigInt64()",
     "type": "js"
   },
   {
     "fileName": "dataview-setbiguint64.js",
-    "title": "JavaScript Demo: DataView.setBigUint64()",
+    "title": "JavaScript: DataView.setBigUint64()",
     "type": "js"
   },
   {
     "fileName": "dataview-setfloat32.js",
-    "title": "JavaScript Demo: DataView.setFloat32()",
+    "title": "JavaScript: DataView.setFloat32()",
     "type": "js"
   },
   {
     "fileName": "dataview-setfloat64.js",
-    "title": "JavaScript Demo: DataView.setFloat64()",
+    "title": "JavaScript: DataView.setFloat64()",
     "type": "js"
   },
   {
     "fileName": "dataview-setint8.js",
-    "title": "JavaScript Demo: DataView.setInt8()",
+    "title": "JavaScript: DataView.setInt8()",
     "type": "js"
   },
   {
     "fileName": "dataview-setint16.js",
-    "title": "JavaScript Demo: DataView.setInt16()",
+    "title": "JavaScript: DataView.setInt16()",
     "type": "js"
   },
   {
     "fileName": "dataview-setint32.js",
-    "title": "JavaScript Demo: DataView.setInt32()",
+    "title": "JavaScript: DataView.setInt32()",
     "type": "js"
   },
   {
     "fileName": "dataview-setuint8.js",
-    "title": "JavaScript Demo: DataView.setUint8()",
+    "title": "JavaScript: DataView.setUint8()",
     "type": "js"
   },
   {
     "fileName": "dataview-setuint16.js",
-    "title": "JavaScript Demo: DataView.setUint16()",
+    "title": "JavaScript: DataView.setUint16()",
     "type": "js"
   },
   {
     "fileName": "dataview-setuint32.js",
-    "title": "JavaScript Demo: DataView.setUint32()",
+    "title": "JavaScript: DataView.setUint32()",
     "type": "js"
   }
 ]

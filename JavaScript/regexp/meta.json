@@ -1,92 +1,92 @@
 [
   {
     "fileName": "regexp-constructor.js",
-    "title": "JavaScript Demo: RegExp Constructor",
+    "title": "JavaScript: RegExp Constructor",
     "type": "js"
   },
   {
     "fileName": "regexp-getregexp-@@species.js",
-    "title": "JavaScript Demo: RegExp.getRegExp[@@species]",
+    "title": "JavaScript: RegExp.getRegExp[@@species]",
     "type": "js"
   },
   {
     "fileName": "regexp-lastindex.js",
-    "title": "JavaScript Demo: RegExp.lastIndex",
+    "title": "JavaScript: RegExp.lastIndex",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-@@match.js",
-    "title": "JavaScript Demo: RegExp.prototype[@@match]",
+    "title": "JavaScript: RegExp.prototype[@@match]",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-@@matchall.js",
-    "title": "JavaScript Demo: RegExp.prototype[@@matchAll]",
+    "title": "JavaScript: RegExp.prototype[@@matchAll]",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-@@replace.js",
-    "title": "JavaScript Demo: RegExp.prototype[@@replace]",
+    "title": "JavaScript: RegExp.prototype[@@replace]",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-@@search.js",
-    "title": "JavaScript Demo: RegExp.prototype[@@search]",
+    "title": "JavaScript: RegExp.prototype[@@search]",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-@@split.js",
-    "title": "JavaScript Demo: RegExp.prototype[@@split]",
+    "title": "JavaScript: RegExp.prototype[@@split]",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-exec.js",
-    "title": "JavaScript Demo: RegExp.prototype.exec()",
+    "title": "JavaScript: RegExp.prototype.exec()",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-flags.js",
-    "title": "JavaScript Demo: RegExp.prototype.flags",
+    "title": "JavaScript: RegExp.prototype.flags",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-global.js",
-    "title": "JavaScript Demo: RegExp.prototype.global",
+    "title": "JavaScript: RegExp.prototype.global",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-ignorecase.js",
-    "title": "JavaScript Demo: RegExp.prototype.ignoreCase",
+    "title": "JavaScript: RegExp.prototype.ignoreCase",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-multiline.js",
-    "title": "JavaScript Demo: RegExp.prototype.multiline",
+    "title": "JavaScript: RegExp.prototype.multiline",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-source.js",
-    "title": "JavaScript Demo: RegExp.prototype.source",
+    "title": "JavaScript: RegExp.prototype.source",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-sticky.js",
-    "title": "JavaScript Demo: RegExp.prototype.sticky",
+    "title": "JavaScript: RegExp.prototype.sticky",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-test.js",
-    "title": "JavaScript Demo: RegExp.prototype.test",
+    "title": "JavaScript: RegExp.prototype.test",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-tostring.js",
-    "title": "JavaScript Demo: RegExp.prototype.toString()",
+    "title": "JavaScript: RegExp.prototype.toString()",
     "type": "js"
   },
   {
     "fileName": "regexp-prototype-unicode.js",
-    "title": "JavaScript Demo: RegExp.prototype.unicode",
+    "title": "JavaScript: RegExp.prototype.unicode",
     "type": "js"
   }
 ]
